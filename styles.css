@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+input{
+	margin-bottom: 8px;
+	padding: 7px;
+}
+
+button{
+	padding: 5px 8px;
+	margin: 5px;
+}
